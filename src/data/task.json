@@ -7,7 +7,7 @@
     {
         "id": 2,
         "title": "Practice JavaScript",
-        "completed": true
+        "completed": false
     },
     {
         "id": 3,
